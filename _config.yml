@@ -54,8 +54,8 @@ about_profile_image: images/pfp.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hey! My name is Nor Enibtawi. I was born and raised in Greenville, South Carolina. I'm currently a Junior student at Clemson University.
   I'm studying Computer Information Systems with a minor in Cybersecurity. I am currently proficient in C, C++, Python, and Java (Most experience with C++ and Java);
-  I also have limited experience with Lua and JS. My goal is to work in the I.T. or Networking field. I am a fan of Philosophy and read whenever I have the time.
-  I’m a software tester with experience in mobile app QA and academic projects in Java, C++, and Python. I’m currently expanding my technical skills and looking for opportunities
+  I also have limited experience with Lua and JS. My goal is to work in the I.T. or Networking field.
+  I'm a software tester with experience in mobile app QA and academic projects in Java, C++, and Python. I'm currently expanding my technical skills and looking for opportunities
   to grow not just as a developer, but as an IT professional who can support, secure, and improve the systems people rely on every day.
 
 
@@ -84,7 +84,7 @@ content:
           and I collaborated with teammates through Git to manage features and maintain consistent architecture, 
           and I also wrote unit tests to verify movement rules, turn order, and win conditions.
         
-      - layout: right
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Chain Reaction Game
@@ -103,35 +103,38 @@ content:
           I developed a terminal-based Chain Reaction strategy game in C++ on a Unix environment using Vim. 
           The project implemented full player logic, grid management, and cascading chain reaction mechanics to keep the system organized and expandable. 
         
-  - title: Experience
+  - title: Related Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Eleos Technologies
+        sub_title: Software Tester
+        caption: April 2025 - present
+        link: https://eleostech.com/
+        # quote: >
+        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I worked as a software tester for a mobile application, where I executed functional, 
+          UI, and regression tests across multiple devices and operating system versions to ensure consistent performance and reliability. 
+          I identified, reproduced, and documented bugs with clear steps and details, then collaborated with developers 
+          to verify fixes and improve feature quality. The role involved structured test-case execution as well as exploratory testing to find edge cases and usability issues. 
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: Clemson University
+        sub_title: BS Computer Information Systems; Minor Cybersecurity
+        caption: 2024 - present
+        # quote: >
+        #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+          Transfered from Greenville Technical College
+  - title: Personal Life
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Outside of School and Work, I enjoy watching shows, playing video games, cooking, and going to the gym.
+      I'm starting to pick up novice game development as a hobby, although I haven't sank much time into it yet.
+      I am a fan of Philosophy, and try to read every now and again.
 
 # Footer
 footer_show_references: true

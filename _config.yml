@@ -127,8 +127,8 @@ content:
         caption: 2024 - present
         # quote: >
         #   Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Transfered from Greenville Technical College
+        # description: | # this will include new lines to allow paragraphs
+        #   Transfered from Greenville Technical College
   - title: Personal Life
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -137,7 +137,7 @@ content:
       I am a fan of Philosophy, and try to read every now and again.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings

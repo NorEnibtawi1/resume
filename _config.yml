@@ -50,7 +50,7 @@ linkedin_username: nor-enibtawi
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/pfp.jpg
+about_profile_image: "images/pfp.jpg"
 about_content: | # this will include new lines to allow paragraphs
   Hey! My name is Nor Enibtawi. I was born and raised in Greenville, South Carolina. I'm currently a Junior student at Clemson University.
   I'm studying Computer Information Systems with a minor in Cybersecurity. I am currently proficient in C, C++, Python, and Java (Most experience with C++ and Java);

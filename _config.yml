@@ -83,7 +83,8 @@ content:
           capturing logic, king progression, and overall game-state tracking. The project emphasized clean object-oriented design, 
           and I collaborated with teammates through Git to manage features and maintain consistent architecture, 
           and I also wrote unit tests to verify movement rules, turn order, and win conditions.
-        layout: left
+        
+      - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Chain Reaction Game

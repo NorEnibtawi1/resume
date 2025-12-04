@@ -121,7 +121,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Clemson University
         sub_title: BS Computer Information Systems; Minor Cybersecurity
         caption: 2024 - present
@@ -129,12 +129,16 @@ content:
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Transfered from Greenville Technical College
+      - layout: top-left
+        title: Riverside Highschool
+        sub_title: High School Degree
+        caption: 2022
   - title: Personal Life
     layout: text
     content: | # this will include new lines to allow paragraphs
       Outside of School and Work, I enjoy watching shows, playing video games, cooking, and going to the gym.
       I'm starting to pick up novice game development as a hobby, although I haven't sank much time into it yet.
-      I am a fan of Philosophy, and try to read every now and again.
+      I am also a fan of Philosophy, and try to read every now and again.
 
 # Footer
 footer_show_references: false
